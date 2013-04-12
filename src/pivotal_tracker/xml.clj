@@ -1,7 +1,7 @@
 ; Original Code from https://github.com/wilkes/clj-pt
 ; (C) Wilkes Joiner
 (ns pivotal-tracker.xml
-  (:require (clojure.xml))
+  (:require [clojure.xml])
   (:import (java.io ByteArrayInputStream)))
 
 ;; stolen from clojure.xml but replace any println's with print's
