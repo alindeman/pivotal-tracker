@@ -1,4 +1,4 @@
-(defproject pivotal-tracker "0.0.1"
+(defproject pivotal-tracker "0.0.2"
   :description "Pivotal Tracker API Client"
   :url "https://github.com/alindeman/pivotal-tracker"
   :license {:name "MIT License"
